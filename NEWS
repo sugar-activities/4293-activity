@@ -1,0 +1,47 @@
+9
+
+* customization toolbar -- design your own abacus
+
+8
+
+* added hexadecimal
+* code cleanup to make it easier to modify/extend
+
+7
+
+* fixed restore bug with fraction abacus
+* added missing type to rods
+
+6
+
+* added binary abacus
+* added fraction abacus
+* autogenerate SVG
+* general code clean-up/consolidation
+
+5
+
+* highlight recently moved beads
+* fixed scaling problem with rods, dividing bar
+
+4
+
+* save/restore abacus value
+* movable indicator
+
+3
+
+* Added frame
+* Code clean up for easier maintenance
+
+2
+
+* Added Mayan (nepohualtzintzin) abacus
+* Save/restore mode to/from Journal
+
+1
+
+* Abacus activity
+* Chinese (suanpan), Japanese (soroban), and Russian (schety) models
+
+
